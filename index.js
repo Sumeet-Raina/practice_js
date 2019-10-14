@@ -19,7 +19,9 @@ let person = {
 console.log(person);
 
 //how to work with objects
+//bracket notation
+person['name'] = 'Saru';
+console.log(person.name);
 // dot notation
-
 person.name = "Yash"; // changing the value of the name property using dot notation
 console.log(person.name);
