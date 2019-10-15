@@ -40,7 +40,16 @@ function greeter(){
 }
 greeter();
 
+//performing a task
 function greet(name ,lastName){ // name is parameter
   console.log(name + ' ' + lastName);
 }
 greet('Sumeet', 'Raina');//sumeet is argument
+
+//calculating a value
+function square(number){
+  return number * number;
+}
+let num = square(5);
+console.log(num);
+console.log(square(3));
