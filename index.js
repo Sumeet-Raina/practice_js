@@ -25,3 +25,8 @@ console.log(person.name);
 // dot notation
 person.name = "Yash"; // changing the value of the name property using dot notation
 console.log(person.name);
+
+//Array literal
+let selectedColors = ['red', 'blue'];
+console.log(selectedColors);
+console.log(selectedColors[0]);
