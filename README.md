@@ -1,3 +1,3 @@
 # Practice_js
 
-Practsing fundamentals of Javascript
+Practicing fundamentals of Javascript
