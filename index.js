@@ -33,3 +33,14 @@ selectedColors[3] = 4;
 console.log(selectedColors);
 console.log(selectedColors[2]);
 console.log(selectedColors[3]);
+console.log(selectedColors.length);
+
+function greeter(){
+  console.log('Hello world');
+}
+greeter();
+
+function greet(name ,lastName){ // name is parameter
+  console.log(name + ' ' + lastName);
+}
+greet('Sumeet', 'Raina');//sumeet is argument
